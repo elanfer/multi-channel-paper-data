@@ -2,7 +2,7 @@
 
 
 # Multi-Channel Data Set
-This Repository contains data from a measurement campaign in order to improve the proximity estimation. The basic idea is to improve the estimation by combining WiFi (IEEE 802.11 2.4 GHz and 5 GHz) signals with BLE signals. Parts of these data were collected during a [master thesis](https://github.com/elanfer/msc-thesis), others during regular research. The paper containing results was submitted to a IEEE conference and is currently under review. Measurement setup and details are described in detail in the thesis. A brief description will published in this repository soon.
+This Repository contains data from a measurement campaign in order to improve the proximity estimation. The basic idea is to improve the estimation by combining Wi-Fi (IEEE 802.11 2.4 GHz and 5 GHz) signals with BLE signals. Parts of these data were collected during a [master thesis](https://github.com/elanfer/msc-thesis), others during regular research. The paper containing results was submitted to an IEEE conference and is currently under review. Measurement setup and details are described in detail in the thesis. A brief description will be published in this repository soon.
 
 ## Devices
 - Raspberry Pi 4b (Pi) (**Receiver** and sender)
@@ -13,7 +13,7 @@ This Repository contains data from a measurement campaign in order to improve th
 - Office room
 - Bus
 - Train 
-- Outoors in an empty parking lot
+- Outdoors in an empty parking lot
 
 ## Settings
 - Measurement section (Only one device sending at stable distance)
@@ -28,7 +28,7 @@ This Repository contains data from a measurement campaign in order to improve th
 | freq24  | Frequency in MHz for the IEEE 802.11 2.4GHz probe requests |
 | rssi5   | Raw RSSI in dBm for the IEEE 802.11 5Hz probe requests | 
 | freq5   | Frequency in MHz for the IEEE 802.11 5GHz probe requests |
-| y       | Distance classifcation into *very_close*, *close*, and *safe* (in accordance to GAEN proximity estimation) |
+| y       | Distance classification into *very_close*, *close*, and *safe* (in accordance to GAEN proximity estimation) |
 
 ## Citation 
 tbf
