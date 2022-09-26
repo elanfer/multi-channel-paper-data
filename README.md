@@ -31,7 +31,7 @@ This Repository contains data from a measurement campaign in order to improve th
 | y       | Distance classification into *very_close*, *close*, and *safe* (in accordance to GAEN proximity estimation) |
 
 ## Citation 
-tbf
+E. Lanfer, T. Hänel, R. van Rijswijk-Deij and N. Aschenbruck, "Improving Proximity Classification for Contact Tracing using a Multi-channel Approach," IEEE 47th Conference on Local Computer Networks (LCN), 2022, pp. 64-72, doi: [10.1109/LCN53696.2022.9843531](https://doi.org/10.1109/LCN53696.2022.9843531).
 
 ## License
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
